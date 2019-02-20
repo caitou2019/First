@@ -1,2 +1,6 @@
 a
+<<<<<<< HEAD
 +dcb
+=======
++bcd
+>>>>>>> edac6e0a1b7f12f6f4f278c7ac634150cbfda335
